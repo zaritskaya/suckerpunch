@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+permalink: /404.html
